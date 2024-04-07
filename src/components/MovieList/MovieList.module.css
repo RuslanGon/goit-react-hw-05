@@ -11,7 +11,7 @@
     text-decoration: none;
     color: rgb(73, 248, 42);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    min-height: 30px;
+    min-height: 80px;
     font-size: 8px;
     padding: 20px;
     text-align: center;
